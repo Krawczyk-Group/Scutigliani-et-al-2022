@@ -101,7 +101,7 @@ install.packages(c("matrixTests", "ggfortify"))
 
 If you use this repository or these datasets in your research, please cite the original publication:
 
-> **Scutigliani, E. M., Lobo-Cerna, F., Mingo Barba, S., Scheidegger, S., & Krawczyk, P. M. (2022).** The Effects of Heat Stress on the Transcriptome of Human Cancer Cells: A Meta-Analysis. *Cancers (Basel)*, 14(24), 6022. [https://doi.org/10.3390/cancers14246022](https://doi.org/10.3390/cancers14246022)
+> **Scutigliani, E. M., Lobo-Cerna, F., Mingo Barba, S., Scheidegger, S., & Krawczyk, P. M. (2022).** The Effects of Heat Stress on the Transcriptome of Human Cancer Cells: A Meta-Analysis. *Cancers (Basel)*, 14(24), 6022. [https://doi.org/10.3390/cancers14246022](https://doi.org/10.3390/cancers15010113)
 
 ---
 *Maintained by the **P. Krawczyk Research Group**. For queries or collaboration, please open an issue.*
