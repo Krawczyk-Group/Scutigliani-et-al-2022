@@ -7,7 +7,7 @@
 This repository contains the curated datasets, analysis scripts, and reproducible workflows for the meta-analysis published in **Cancers (Basel) 2022**: 
 
 > **"The Effects of Heat Stress on the Transcriptome of Human Cancer Cells: A Meta-Analysis"**  
-> *Enzo M. Scutigliani, Francisco Lobo-Cerna, Sergio Mingo Barba, Stephan Scheidegger, and Przemek M. Krawczyk.*
+> *Enzo M. Scutigliani, Fernando Lobo-Cerna, Sergio Mingo Barba, Stephan Scheidegger, and Przemek M. Krawczyk.*
 
 ---
 
