@@ -87,8 +87,8 @@ install.packages(c("matrixTests", "ggfortify"))
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/Krawczyk-Group/Scutigliani-et-al-2022.git
-    cd Scutigliani-et-al-2022
+    git clone [https://github.com/Krawczyk-Group/Scutigliani-et-al-2022.git](https://github.com/Krawczyk-Group/Scutigliani-et-al-2022.git)
+      cd Scutigliani-et-al-2022
     ```
 2.  **Run Data Wrangling:**
     Execute `data_wrangling_before_analysis.R` to consolidate raw study files into the master expression matrix (`expression_all.csv`).
