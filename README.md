@@ -49,6 +49,7 @@ We analyzed global gene expression profiles to understand how hyperthermia dysre
 ├── *.csv                   # Processed datasets (18 total)
 ├── paper.pdf               # Full-text PDF of the publication
 └── README.md               # Documentation (you are here)
+```
 ---
 
 ## Data Sources
