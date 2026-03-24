@@ -51,7 +51,7 @@ We analyzed global gene expression profiles to understand how hyperthermia dysre
 └── README.md               # Documentation (you are here)
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 The analysis integrates data from multiple landmark studies in the field:
 
@@ -66,7 +66,7 @@ The analysis integrates data from multiple landmark studies in the field:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 To reproduce the analysis, you will need **R (>= 4.0.0)** and the following libraries:
