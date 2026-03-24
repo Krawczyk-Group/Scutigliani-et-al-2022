@@ -1,0 +1,22 @@
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+.Rhistory
+*.RData
+*.Rhistory
+*.Rapp.history
+*.Ruserdata
+*.Rproj.user
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# OS X
+.DS_Store
+
+# Large datasets or intermediate files if needed
+# expression_all.csv  # (Uncomment if you want to regenerate this file each time)
